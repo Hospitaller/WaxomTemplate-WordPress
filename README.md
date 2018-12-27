@@ -12,13 +12,13 @@ A theme called `startupweb.`
 
 ### Installation
 
-* 1. In your admin panel, go to Appearance > Themes and click the Add New button.
-* 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
-* 3. Click Activate to use your new theme right away.
+*  In your admin panel, go to Appearance > Themes and click the Add New button.
+*  Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
+*  Click Activate to use your new theme right away.
 
 	OR Create "startupweb" folder into "themes" and copy/paste all files and folders.
 
-* 4. Export DataBase file (DB=>mydb.sql) in yours phpMyAdmin panel
+*  Export DataBase file (DB=>mydb.sql) in yours phpMyAdmin panel
 
 
 
